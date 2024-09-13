@@ -1,0 +1,70 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f7efd5;
+  margin: 0;
+  padding: 0;
+}
+
+.app-container {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2.5em;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 600px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card p {
+  font-size: 1.2em;
+  color: #555;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 1em;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-fetch {
+  background-color: #41dd46;
+  color: rgb(232, 248, 8);
+}
+
+.btn-save {
+  background-color: #01aee7;
+  color: rgb(247, 7, 255);
+}
+
+.saved-quotes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.saved-quote-card {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  width: 200px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.saved-quote-card p {
+  font-size: 1em;
+  color: #0f0a0a;
+}
