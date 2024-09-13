@@ -8,7 +8,7 @@ This is a simple React app that fetches random quotes from the [Ron Swanson Quot
 - Save quotes to a personal list
 
 ## Demo
-![App Screenshot](public/Screenshot.png)<!-- You can add a screenshot of your app -->
+![App Screenshot](public/pic.png)<!-- You can add a screenshot of your app -->
 
 ## Getting Started
 
